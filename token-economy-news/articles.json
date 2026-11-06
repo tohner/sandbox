@@ -1,0 +1,385 @@
+{
+  "updated": "2026-11-06T20:56:03.820Z",
+  "articles": [
+    {
+      "date": "2026-11-06",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "source": "CoinDesk",
+      "topic": "Tokenomics",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "source": "CoinDesk",
+      "topic": "Stablecoins",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "source": "CoinDesk",
+      "topic": "Regulation",
+      "sentiment": 0.3,
+      "impact": 4,
+      "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "source": "CoinDesk",
+      "topic": "General",
+      "sentiment": 1,
+      "impact": 2,
+      "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "source": "CoinDesk",
+      "topic": "Stablecoins",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+      "source": "The Block",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+      "source": "The Block",
+      "topic": "General",
+      "sentiment": 0.3,
+      "impact": 2,
+      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+      "source": "The Block",
+      "topic": "Tokenomics",
+      "sentiment": -0.3,
+      "impact": 2,
+      "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+      "source": "The Block",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+      "source": "The Block",
+      "topic": "Stablecoins",
+      "sentiment": -1,
+      "impact": 4,
+      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+      "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+      "source": "Decrypt",
+      "topic": "Regulation",
+      "sentiment": 1,
+      "impact": 2,
+      "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+      "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+      "source": "Decrypt",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "source": "Decrypt",
+      "topic": "General",
+      "sentiment": -0.7,
+      "impact": 2,
+      "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+      "source": "Decrypt",
+      "topic": "AI & Tokens",
+      "sentiment": -0.3,
+      "impact": 2,
+      "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+      "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+      "source": "Decrypt",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved."
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+      "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+      "source": "Decrypt",
+      "topic": "AI & Tokens",
+      "sentiment": 0.3,
+      "impact": 2,
+      "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+      "source": "Decrypt",
+      "topic": "AI & Tokens",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "source": "CoinDesk",
+      "topic": "AI & Tokens",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
+      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "source": "CoinDesk",
+      "topic": "General",
+      "sentiment": -0.3,
+      "impact": 2,
+      "summary": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "source": "CoinDesk",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "source": "CoinDesk",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": ""
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+      "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+      "source": "CoinDesk",
+      "topic": "General",
+      "sentiment": -0.3,
+      "impact": 2,
+      "summary": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+      "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+      "source": "CoinDesk",
+      "topic": "Tokenomics",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+      "source": "CoinDesk",
+      "topic": "Regulation",
+      "sentiment": -0.7,
+      "impact": 4,
+      "summary": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+      "source": "The Block",
+      "topic": "General",
+      "sentiment": 0.3,
+      "impact": 2,
+      "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+      "source": "The Block",
+      "topic": "Tokenomics",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+      "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+      "source": "The Block",
+      "topic": "General",
+      "sentiment": 0.3,
+      "impact": 2,
+      "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+      "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
+      "source": "The Block",
+      "topic": "Tokenomics",
+      "sentiment": 0,
+      "impact": 4,
+      "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+      "source": "Decrypt",
+      "topic": "General",
+      "sentiment": -0.3,
+      "impact": 2,
+      "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+      "source": "Decrypt",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+      "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+      "source": "Decrypt",
+      "topic": "Tokenomics",
+      "sentiment": 0.7,
+      "impact": 2,
+      "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
+      "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
+      "source": "Decrypt",
+      "topic": "Regulation",
+      "sentiment": 0.3,
+      "impact": 2,
+      "summary": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+      "url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+      "source": "Decrypt",
+      "topic": "AI & Tokens",
+      "sentiment": 0.3,
+      "impact": 2,
+      "summary": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
+      "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+      "source": "Decrypt",
+      "topic": "Regulation",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "The Dems are already talking compromise on the Clarity Act and their requests all seem logical - does the bill have new life?"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+      "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+      "source": "Decrypt",
+      "topic": "Stablecoins",
+      "sentiment": 0,
+      "impact": 2,
+      "summary": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto",
+      "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
+      "source": "Decrypt",
+      "topic": "General",
+      "sentiment": 0,
+      "impact": 4,
+      "summary": "Prosecutors say Ryan Roach and a co-defendant targeted U.S. universities with supercomputers, stealing logins and secretly mining crypto."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+      "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+      "source": "Decrypt",
+      "topic": "General",
+      "sentiment": -0.7,
+      "impact": 4,
+      "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+      "source": "Decrypt",
+      "topic": "Regulation",
+      "sentiment": 0.3,
+      "impact": 4,
+      "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network."
+    }
+  ]
+}
